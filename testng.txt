@@ -1,0 +1,11 @@
+This is my testng class.
+class Mytest
+{
+@Test
+public void add()
+{
+
+Reporter.log("Addition");
+}
+
+}
